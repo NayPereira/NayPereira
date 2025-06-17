@@ -50,7 +50,4 @@
 </p>
 
 
-
-
-
 ![Snake animation](https://github.com/NayPereira/NayPereira/blob/output/github-contribution-grid-snake.svg)
