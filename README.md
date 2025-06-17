@@ -12,11 +12,16 @@
 ---
 
 
+<!-- Stats e Trophies lado a lado -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayPereira&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NayPereira&theme=radical&rank=SSS,SS,S,AAA,AA,A" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NayPereira&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayPereira&layout=compact&theme=radical&langs_count=6" />
 </p>
 
+<!-- Card de linguagens abaixo -->
+<p align="center">
+  <img width="40%" src="https://github-profile-trophy.vercel.app/?username=NayPereira&theme=radical&rank=SSS,SS,S,AAA,AA,A" />
+</p>
 
 
 
